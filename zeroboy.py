@@ -80,20 +80,20 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92m Mr.h4cker
-\033[1;96mInstagram \033[1;93m: \033[1;92 mr.h4cker
-\033[1;96mFacebook  \033[1;93m: \033[1;92m mr.h4cker
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com//mr.h4cker/Zero
+\033[1;96mAuthor  \033[1;93m: \033[1;92m Amit Kumar
+\033[1;96mInstagram \033[1;93m: \033[1;92 @amitkr9973
+\033[1;96mFacebook  \033[1;93m: \033[1;92m amit kr singh
+
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 jalan("\033[1;93m        Hello   ")
-jalan("\033[1;93m.         Everyone. ")
+jalan("\033[1;93m.         Dosto. ")
 #jalan("\033[1;93m.            I am Mr.H4cker.")
-jalan("\033[1;93m.      We Don't Forget ") 
-jalan("\033[1:93m.       We Don't Forgive ")
-jalan("\033[1:93m      Aapko Ya Aapke Pariwar walo ko internet se koi problem hai ")
-jalan("\033[1:93m.            To Mujhse Sampark Kare ")
-jalan("\033[1:93m.      😈😈😈😈   Mr.H4cker.  😈😈😈  ")
+jalan("\033[1;93m.      jimmedari ka mashla hai shaheb  ") 
+jalan("\033[1:93m.                    warna hum bhi nawab hai  ")
+jalan("\033[1:93m      Mob :.   7979909323")
+jalan("\033[1:93m.            Mujhse Sampark Kare ")
+jalan("\033[1:93m.      😈😈😈😈   Amit singh   😈😈😈  ")
       
       
 
